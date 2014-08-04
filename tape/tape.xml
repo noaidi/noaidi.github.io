@@ -11,12 +11,12 @@
 			<itunes:email>i@noaidi.com</itunes:email>
 		</itunes:owner>
 		<image>
-			<url>https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png</url>
+			<url>http://noaidi.github.io/tape/noaidi-tape.png</url>
 			<title>NOAIDI Tape</title>
 			<link>http://facebook.com/noaidij</link>
 		</image>
-		<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-		<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">NOAIDI Tape</itunes:link>
+		<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+		<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">NOAIDI Tape</itunes:link>
 		<itunes:summary><![CDATA[
 Enjoy house music with NOAIDI!
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
@@ -55,8 +55,8 @@ Download: http://goo.gl/34paJN
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/26%20Tape%20026.m4a" length="151088949" type="audio/mpeg" />
 		</item>
 		
@@ -88,7 +88,7 @@ Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
 			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape-sunsetmix.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/25%20Tape%20025%20%28Sunset%20Mix%29.m4a" length="126683830" type="audio/mpeg" />
 		</item>
 		
@@ -118,8 +118,8 @@ Download: http://goo.gl/dV2Ib2
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/24%20Tape%20024.m4a" length="121680478" type="audio/mpeg" />
 		</item>
 		
@@ -149,8 +149,8 @@ Download: http://goo.gl/NZm91b
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 23 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 23 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/23%20Tape%20023.m4a" length="125029987" type="audio/mpeg" />
 		</item>
 		
@@ -180,8 +180,8 @@ Download: http://goo.gl/1QUinx
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape-beachmix.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape-beachmix.png">Episode 22 (Beach Mix) of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-beachmix.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-beachmix.png">Episode 22 (Beach Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/22%20Tape%20022%20%28Beach%20Mix%29.m4a" length="152889050" type="audio/mpeg" />
 		</item>
 		
@@ -213,7 +213,7 @@ Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
 			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape-sunsetmix.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/21%20Tape%20021%20%28Sunset%20Mix%20-%20Craftsman%20Ship%20Open%20Studio%20Opening%20Party%2014%2704_11%29.m4a" length="116810807" type="audio/mpeg" />
 		</item>
 		
@@ -244,8 +244,8 @@ Download: http://goo.gl/QS5bsH
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 20 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 20 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/20%20Tape%20020.m4a" length="126678536" type="audio/mpeg" />
 		</item>
 		
@@ -272,8 +272,8 @@ Download: http://goo.gl/4oyXJC
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 19 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 19 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/19%20Tape%20019.m4a" length="103249121" type="audio/mpeg" />
 		</item>
 		
@@ -328,8 +328,8 @@ Download: http://goo.gl/gcKTmi
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 17 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 17 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/17%20Tape%20017.m4a" length="94811190" type="audio/mpeg" />
 		</item>
 		
@@ -356,8 +356,8 @@ Download: http://goo.gl/W2YplT
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 16 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 16 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/16%20Tape%20016.m4a" length="94311089" type="audio/mpeg" />
 		</item>
 		
@@ -481,8 +481,8 @@ Download: http://goo.gl/uiBZxg
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 12 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 12 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/12%20Tape%20012.m4a" length="95355831" type="audio/mpeg" />
 		</item>
 		
@@ -509,8 +509,8 @@ Download: http://goo.gl/zMLp7l
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 11 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 11 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/11%20Tape%20011.m4a" length="92364628" type="audio/mpeg" />
 		</item>
 		
@@ -565,8 +565,8 @@ Download: http://goo.gl/jtwhpA
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 9 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 9 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/09%20Tape%20009.m4a" length="87816846" type="audio/mpeg" />
 		</item>
 		
@@ -593,8 +593,8 @@ Download: http://goo.gl/86Wdk0
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 8 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 8 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/08%20Tape%20008.m4a" length="83316573" type="audio/mpeg" />
 		</item>
 		
@@ -621,8 +621,8 @@ Download: http://goo.gl/DDOfqi
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 7 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 7 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/07%20Tape%20007.m4a" length="61910250" type="audio/mpeg" />
 		</item>
 		
@@ -649,8 +649,8 @@ Download: http://goo.gl/I9O3Md
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 6 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 6 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/06%20Tape%20006.m4a" length="88438193" type="audio/mpeg" />
 		</item>
 		
@@ -677,8 +677,8 @@ Download: http://goo.gl/ybld5e
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 5 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 5 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/05%20Tape%20005.m4a" length="93851057" type="audio/mpeg" />
 		</item>
 		
@@ -705,8 +705,8 @@ Download: http://goo.gl/qUqkDE
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 4 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 4 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/04%20Tape%20004.m4a" length="108500214" type="audio/mpeg" />
 		</item>
 		
@@ -733,8 +733,8 @@ Download: http://goo.gl/O9sFue
 Follow NOAIDI on Facebook:
 http://facebook.com/noaidij
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 3 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 3 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/03%20Tape%20003.m4a" length="106730342" type="audio/mpeg" />
 		</item>
 		
@@ -761,8 +761,8 @@ Download: http://goo.gl/BQGsDz
 Follow NOAIDI on Facebook:
 http://facebook.com/noaidij
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 2 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 2 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/02%20Tape%20002.m4a" length="89453574" type="audio/mpeg" />
 		</item>
 		
@@ -789,8 +789,8 @@ Download: http://goo.gl/rWTNmH
 Follow NOAIDI on Facebook: 
 http://facebook.com/noaidij
 			]]></itunes:summary>
-			<itunes:image href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png" />
-			<itunes:link rel="image" type="image/png" href="https://bitbucket.org/noaidi/podcast.tape/downloads/noaidi-tape.png">Episode 1 of NOAIDI Tape</itunes:link>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 1 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/01%20Tape%20001.m4a" length="100587740" type="audio/mpeg"/>
 		</item>
 		
