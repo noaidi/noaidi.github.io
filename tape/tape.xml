@@ -27,6 +27,39 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Sun, 18 Jan 2015 00:00:00 +0900</pubDate>
+			<title>Episode 27 (Sunset Mix) of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 27 (Sunset Mix) of NOAIDI Tape
+
+1. You're On feat. Kyan (Original Mix) - Madeon
+2. Give It All Away (Original Mix) - Croatia Squad
+3. Waves (Robin Schulz Remix) - Mr. Probz
+4. Gecko (Overdrive) (Extended Edit) - Oliver Heldens, Becky Hill
+5. Milking (Original Mix) - Croatia Squad
+6. Koala feat. KStewart (Michael Calfan Remix) - Oliver Heldens
+7. I Can't Understand (Original Mix) - Chocolate Puma & Firebeatz
+8. Sure Thing feat. Ashibah (Matvey Emerson Remix) - Vintage Culture, Earstrip & Torha
+9. This Could Be Love feat. Delaney Jane (Original Mix) - Borgeous & Shaun Frank
+10. Bang! feat. Angela De Sario (Extended Mix) - Luca Debonaire Nick Fiorucci & Matt Auston
+11. Jumping (Original Mix) - The Cube Guys, Etienne Ozborne & SP1DER
+12. Can You Feel It feat. Gwen McCrae (Club Mix) - Sander Kleinenberg
+13. Elephant (Original mix) - Funkin Matt
+14. Treasured Soul (Original Mix) - Michael Calfan
+15. Rhythm Is A Dancer (Original Mix) - eSQUIRE & Jolyon Petch
+
+Download: http://goo.gl/mhpNzT
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 25 (Sunset Mix) of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/27Tape027sunsetMix.m4a" length="129023182" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Wed, 18 Jul 2014 00:00:00 +0900</pubDate>
 			<title>Episode 26 of NOAIDI Tape</title>
 			<author>noaidi</author>
@@ -88,7 +121,7 @@ Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
 			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png" />
-			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 25 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/25%20Tape%20025%20%28Sunset%20Mix%29.m4a" length="126683830" type="audio/mpeg" />
 		</item>
 		
@@ -213,7 +246,7 @@ Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			]]></itunes:summary>
 			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png" />
-			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 21 (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/21%20Tape%20021%20%28Sunset%20Mix%20-%20Craftsman%20Ship%20Open%20Studio%20Opening%20Party%2014%2704_11%29.m4a" length="116810807" type="audio/mpeg" />
 		</item>
 		
