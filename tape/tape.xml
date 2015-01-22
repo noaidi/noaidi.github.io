@@ -27,6 +27,39 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Thu, 22 Jan 2015 00:00:00 +0900</pubDate>
+			<title>Episode 29 (Sunset Mix) of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 29 (Sunset Mix) of NOAIDI Tape
+
+1. Higher Ground feat. Charli Taft - Blonde
+2. Back & Forth feat. Elizabeth Rose (Nora En Pure Remix) - The Aston Shuffle
+3. Relock (Original Mix) - Alex Kenji
+4. Ghosts feat. Lauren Mason (Original Mix) - Higher Self
+5. The Gift (Mark Knight Remix) - Mike Mago
+6. Put'em High feat. Therese (Atilla Cetin Nitec Remix) - Stonebridge
+7. Love Hope Doubt (Original Mix) - Ganzfeld Effect
+8. Prelude (Original Mix) - Michael Calfan 
+9. Digital Rush (Original Mix) - Todd Valex
+10. Collateral Effects (Original Mix) - EDX
+11. Shy (Original Mix) - Skyentist
+12. Boomslang (Original Mix) - Lucas Luck
+13. Lovin U (Original Mix) - Frey
+14. Gone (Original Mix) - Asino
+15. You Can't Hide (Original Mix) - Vintage Culture
+
+Download: http://goo.gl/N3y0dO
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 29 (Sunset Mix) of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/29Tape029sunsetMix.m4a" length="130956394" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Tue, 20 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 28 (Sunset Mix) of NOAIDI Tape</title>
 			<author>noaidi</author>
