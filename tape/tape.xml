@@ -27,6 +27,41 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Sat, 31 Jan 2015 00:00:00 +0900</pubDate>
+			<title>Episode 30 (Sunset Mix) of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 30 (Sunset Mix) of NOAIDI Tape
+
+1. More Than A Lover feat. Anna Stahl (Extended Version) - Style of Eye
+2. Mistakes I've Made (Philip George Remix) - Eelke Kleijn
+3. Clap Your Hands (Extended Club Version) - Parov Stelar
+4. Pumpin It Up (Original Mix) - Luca Debonaire
+5. Loden (Extended Mix) - Bottai
+6. The Receiver (Original Mix) - Louis La Roche
+7. Blinded feat. Bethany (Original Mix) - Lucas & Steve
+8. Like a Circle (Original Mix) - Earstrip & Torha
+9. Push The Feeling On (Club Mix) - Criminal Vibes
+10. Something Else (Original Mix) - Redondo & Ferreck Dawn
+11. The Sun (Gamper & Dadoni Remix) - Parov Stelar
+12. Move Me (Original Mix) - The Checkup
+13. Black Betty (Original Mix) - JL & Afterman
+14. Piano Clap (Original Mix) - Danilo Secli, Andrea Maggino
+15. Can't Be Stopped (Atilla Cetin Nitec Remix) - ZHU & Krista Richards
+16. Intoxicated (Original Mix) - Martin Solveig, GTA
+17. Kickass Sax Tune feat. Cucchia Sax (Original Mix) - Gary Caos, Dan Aslow
+
+Download: http://goo.gl/b4Zf5r
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 30 (Sunset Mix) of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/30Tape030sunsetMix.m4a" length="148888426" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Thu, 22 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 29 (Sunset Mix) of NOAIDI Tape</title>
 			<author>noaidi</author>
