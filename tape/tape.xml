@@ -26,7 +26,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<copyright>© noaidi</copyright>
 		<itunes:category text="Music" />
 		
-		<!--item>
+		<item>
 			<pubDate>Fri, 22 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 36 of NOAIDI Tape</title>
 			<author>noaidi</author>
@@ -57,7 +57,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 36 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/36Tape036.m4a" length="122946575" type="audio/mpeg" />
-		</item-->
+		</item>
 		
 		<item>
 			<pubDate>Fri, 15 May 2015 00:00:00 +0900</pubDate>
