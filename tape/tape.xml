@@ -27,6 +27,41 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Thu, 16 Jul 2015 00:00:00 +0900</pubDate>
+			<title>Episode 37 of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 37 of NOAIDI Tape
+
+1. Holding On (Original Mix) - Disclosure , Gregory Porter
+2. Rock Ya (Original Mix) - Olav Basoski
+3. New Day (Original Mix) - Olav Basoski
+4. Do It (Original Mix) - Philippe B, Slideback
+5. I Wanna (Original Mix) - Peter Brown
+6. Back to Tech (Olav Basoski Remix) - Arturo Silvestre
+7. Tell Me (Original Mix) - TV Noise
+8. Ain't Gonna Lie (Original Mix) - Magnifik, Kayo Marbilus
+9. Move Your Body (Tommie Sunshine Remix) - Northbrook
+10. Bring The Joy (Olav Basoski Remix) - DJ Mark One, Lizzie Curious
+11. For The Love Of House (Jason Chance Remix) - Roland Clark, Brown Sneakers
+12. Hulk Sneakers (Original Mix) - Olav Basoski
+13. Calendar 2 (Original Mix) - MC Spyder, Olav Basoski
+14. Control (Original Mix) - Oliver
+15. Phunkin Again (Original Mix) - Olav Basoski, Alex van Alff
+16. Looking for Love feat. Renald (Phunk Investigation Remix) - Palace, Double Project
+17. Takeover (Original Mix) - Cassian
+
+Download: http://bit.ly/1LaATnE
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 37 of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/37Tape037.m4a" length="124487334" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Fri, 22 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 36 of NOAIDI Tape</title>
 			<author>noaidi</author>
