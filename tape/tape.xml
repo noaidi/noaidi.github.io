@@ -27,6 +27,42 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Sat, 8 Aug 2015 00:00:00 +0900</pubDate>
+			<title>Episode 39 of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 39 of NOAIDI Tape
+
+1. Silverlined (Ferdinand Weber Remix) - XYconstant
+2. Tell Her (Original Mix) - Dry & Bolinger
+3. Shelter (Mark Picchiotti Vocal Mix) - Rufus Proffit, Mark Picchiotti
+4. Saturday Love - Zimmer & Pallace
+5. This Blouse (Original Mix) - Nora En Pure
+6. A Gentleman's Song FK (Mark Di Meo Soulful Mix) - Mark Di Meo
+7. All I'm Sayin' feat. Lisa Shaw (Vick Lavender Sophisticado Vocal) - Allovers
+8. To Give (Original Mix) - Tanya Michelle, Dj Dimi
+9. It's Not Right But It's Okay - No Way Back
+10. ILYSB (Ferdinand Weber Remix) - LANY
+11. Promise Me (Original Mix) - Motez
+12. Bad, Bad, Bad (Matt DiMona Remix) - LANY
+13. What You Want (Dayne S Remix) - Dustin Mccoi
+14. Stockholm Tears (Original Mix) - Nora En Pure
+15. Psychedelic Love (Original Mix) - Elliot Chapman, Allovers
+16. Let The Music Play (Shane D Remix) - Swaylo, Joe Smooth
+17. Dancin & Romancin' (Original Mix) - Adri Block
+18. Never Stop (Original Mix) - Twism & B3RAO
+
+Download: http://bit.ly/1UuY1z8
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 39 of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/39Tape039.m4a" length="133651525" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Mon, 20 Jul 2015 00:00:00 +0900</pubDate>
 			<title>Episode 38 of NOAIDI Tape (Summer Vibes Korea 2015 @ Busan Songdo Beach)</title>
 			<author>noaidi</author>
