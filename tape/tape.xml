@@ -27,6 +27,43 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Fri, 27 Nov 2015 00:00:00 +0900</pubDate>
+			<title>Episode 41 of NOAIDI Tape (Electro Attack @ Escape 151127 Part 1)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 41 of NOAIDI Tape (Electro Attack @ Escape 151127 Part 1)
+
+1. I Feel For You (Original Mix) - Kid Massive, Alexandra Prince, Sevag
+2. Lady Love (Original Mix) - EC Twins
+3. I Know It (Original Mix) - Timo Juuti, Hector87
+4. All I Do (Samuele Sartini Remix) - Electro Blues, FADER
+5. We Are Back (Original Mix) - Damier Soul
+6. Housecat (Original Mix) - Slideback, Philippe B
+7. Free (Samuele Sartini Remix) - Ultra Nate
+8. Heartbreaker (Crazibiza Remix) - The Disco Boys
+9. Live Your Life feat. Shawnee Taylor (Chuckie Remix) - Erick Morillo, Eddie Thoneick
+10. Feel Good (Original Mix) - Slideback
+11. A House Thing feat. Roland Clark (Samuele Sartini GrooveJet Mix) - Paggi & Costanzi
+12. To The Rhythm (Original Mix) - RanchaTek, Vlada Asanin
+13. It Feels Like (Club Mix) - Benny Camaro, Luca Debonaire
+14. Theme of Lush (Original Mix) - Olav Basoski
+15. Nothing Else (Frank Caro & Alemany Remix) - Jolyon Petch, ESQUIRE & PETCH, eSquire
+16. So Glamorous (Original Mix) - Samuele Sartini, Ultra Nate
+17. Keep Dancing (Lookback Remix) - Jaquita, Crazibiza, Samuele Sartini
+18. Don't U Ever Stop (Original Mix) - June One Kim
+19. Dreaming (JL & Afterman Remix) - Martin Villeneuve, Jerome Robins, Hoxton Whores
+
+Download: http://bit.ly/1QMBNt1
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 41 of NOAIDI Tape (Electro Attack @ Escape 151127 Part 1)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/41Tape041electroAttackEscape151127Part1.m4a" length="125633268" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
 			<title>Episode 40 of NOAIDI Tape</title>
 			<author>noaidi</author>
