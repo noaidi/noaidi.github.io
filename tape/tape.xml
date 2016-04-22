@@ -15,8 +15,8 @@
 			<title>NOAIDI Tape</title>
 			<link>http://facebook.com/noaidij</link>
 		</image>
-		<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
-		<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">NOAIDI Tape</itunes:link>
+		<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-avatar.png" />
+		<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-avatar.png">NOAIDI Tape</itunes:link>
 		<itunes:summary><![CDATA[
 Enjoy house music with NOAIDI!
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
@@ -25,6 +25,41 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<language>en-us</language>
 		<copyright>© noaidi</copyright>
 		<itunes:category text="Music" />
+		
+		<item>
+			<pubDate>Sat, 23 Apr 2016 00:00:00 +0900</pubDate>
+			<title>Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)
+
+1. A Deeper Love (Original Mix) - Tjin Tjin
+2. Jazz Is feat. Brooke Harper (Distant Jazz Remix) - Kevin Yost
+3. Day Dreaming (Original Mix) - Komplexity, Tebogo J
+4. Star (The Organ Grinder Remix) - Reel People, Tony Momrelle
+5. The Best feat. Colonel Red (DeejayKul Meets Soultechnic Dub Mix) - Opolopo
+6. Keep on Risin (Original Mix) - Adri Block & Arno Krijnen
+7. Feeling Right (Original Mix) - Guy Monk
+8. Thankful (Kenny Carpenter Spiritual Mix) - Cheryl Lee, Soulful Session
+9. Masterpiece (feat. Anya V) (Original Mix) - DJ E-Clyps, Anya V
+10. Everyday Life (Original Mix)Wagon Cookin'
+11. Don't Quit (Be A Believer) feat. Jocelyn Brown (Original Mix) - Diephuis, Jocelyn Brown, Eastar
+12. Everyday of My Life (Original Mix) - Bonetti
+13. Your Smile (Kelvin Sylvester Bass Mix) - Dee Lavender, Kelvin Sylvester
+14. Keep Pushin' (Purple Disco Maschine Vox Mix) - Boris Dlugosch
+15. Dance (Album Mix) - The Clark Sisters, 3 Winans Brothers
+16. Mar - Wagon Cookin'
+17. Gift of Love (Album Mix) - Tony Momrelle, Louie Vega
+
+Download: http://bit.ly/1MMcXcz
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-avatar.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/42Tape042.m4a" length="138496187" type="audio/mpeg" />
+		</item>
 		
 		<item>
 			<pubDate>Fri, 27 Nov 2015 00:00:00 +0900</pubDate>
