@@ -11,7 +11,7 @@
 			<itunes:email>i@noaidi.com</itunes:email>
 		</itunes:owner>
 		<image>
-			<url>http://noaidi.github.io/tape/noaidi-tape.png</url>
+			<url>http://noaidi.github.io/tape/noaidi-tape-avatar.png</url>
 			<title>NOAIDI Tape</title>
 			<link>http://facebook.com/noaidij</link>
 		</image>
@@ -57,7 +57,7 @@ Follow NOAIDI on Facebook: http://facebook.com/noaidij
 Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			]]></itunes:summary>
 			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-avatar.png" />
-			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</itunes:link>
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-avatar.png">Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/42Tape042.m4a" length="138496187" type="audio/mpeg" />
 		</item>
 		
