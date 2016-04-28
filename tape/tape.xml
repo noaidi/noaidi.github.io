@@ -27,6 +27,40 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Thu, 28 Apr 2016 00:00:00 +0900</pubDate>
+			<title>Episode 43 of NOAIDI Tape</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 43 of NOAIDI Tape
+
+1. No Less (Phairo Remix) - SG Lewis
+2. Pick Me Up (Reel People Vocal Mix) - Tony Momrelle
+3. Legendary Lovers feat. Chad Saaiman (SoulFunktion Deep Soul Mix) - Soulfunktion
+4. You Used To Hold Me So Tight feat. Angela Johnson (Club Mix) - Reel People
+5. Fire (Original Mix) - Wagon Cookin'
+6. Outta Love feat. Omar (Souled Bootleg Mix) - Reel People
+7. Jazz Tip (Original Mix) - Moca
+8. I Ain't Mad (Reel People Vocal Mix) - Lydia Harrell, Reel People
+9. So Incredible (Earl Tutu,John Khan & Dj Spen Miami 2016 Mix) - Michelle Weeks
+10. Optimisitc (Original) - Zepherin Saint, Ann Nesby & G3
+11. Colours of Love (Mood II Swing Vocal Mix) - The Layabouts, Portia Monique
+12. Crazy (Michele Chiavarini Remix) - Giulio Bonaccio, Melonie Daniels Walker
+13. Without Your Love feat. Randy Roberts (Spen & Thommy Heavy Vibes Mix) - Spencer Morales, Randy Roberts
+14. Resign 2 U (Reel People Vocal Mix) - Heston
+15. Like A Queen - Alex Douche
+16. Do It (Original Mix) - Tuxedo
+
+Download: http://bit.ly/1VE0WbW
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-avatar.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-avatar.png">Episode 43 of NOAIDI Tape</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/43Tape043.m4a" length="141768325" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Sat, 24 Apr 2016 00:00:00 +0900</pubDate>
 			<title>Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</title>
 			<author>noaidi</author>
