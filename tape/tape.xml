@@ -27,6 +27,41 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Sat, 11 Jun 2016 00:00:00 +0900</pubDate>
+			<title>Episode 44 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 1)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 44 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 1)
+
+1. The Movement (Original Mix) - 4th Sign
+2. My Love (Original Mix) - Ivan The Terrible
+3. Your Sins (Original Mix) - Soledrifter
+4. Soak It feat. Nonku (Andre Lodemann Remix) - Hyenah
+5. Baby You (Original Mix) - CASSIMM
+6. Palindrome (Original Mix) - Igor Gonya
+7. Need For Sleep (Original Mix) - Dub Africa
+8. Chelou (Original Mix) - 4th Sign
+9. Suki (Original Mix) - Jakobin & Domino
+10. Everytime (Original Mix) - Sebb Junior
+11. Hello Pretty (Junktion Remix) - Moony Me
+12. Without Your Love (Studioheist Remix) - Dry & Bolinger
+13. Step Down (Original Mix) - Dub Africa
+14. Elevated Formula (Original Mix) - Demarkus Lewis
+15. Look Around You (Original Mix) - Deepkeen
+16. House Musik (Original Mix) - Greg Gow
+17. Take Your Time (Original Mix) - Dub Africa
+
+Download: http://bit.ly/1U5rMtR
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-avatar.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-avatar.png">Episode 44 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 1)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/44Tape044.m4a" length="140239052" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Thu, 28 Apr 2016 00:00:00 +0900</pubDate>
 			<title>Episode 43 of NOAIDI Tape</title>
 			<author>noaidi</author>
