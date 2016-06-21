@@ -27,7 +27,40 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
-			<pubDate>Sat, 24 Jun 2016 11:55:00 +0900</pubDate>
+			<pubDate>Sat, 24 Jun 2016 08:00:00 +0900</pubDate>
+			<title>Episode 47 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 2)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 47 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 2)
+
+1. Still In Love feat. Navasha Daya (DJ Spen Remix Long Version) - Navasha Daya, Shuya Okino
+2. Solid Ground (Spensane Vocal Mix) - Jasper Street Co.
+3. Body'N'Soul (Ian Pooley's Soul Mix [2015 Re-Master]) - Mateo & Matos
+4. Stronger feat. Jason Walker (Original Vocal Mix) - Quentin Harris, Jason Walker
+5. Love Is What You Need (Look Ahead) (Knee Deep Classic Club Mix) - King Unique
+6. Give It Up feat. Kathy Brown (Clepto's Classic Vocal Mix) - Eminence
+7. Always There (M.A.W. Main Mix) - Incognito
+8. Zaius (Kid Massive Funked Up Mix) - Incognito
+9. I Wanna Go Higher (Proper Remix) - Seven Grand Housing Authority
+10. Follow Your Heart (Tommy Vercetti Stomp Remix) - Angel Anx
+11. Live Your Life (DJ Spen, Gary Hudgins & Thommy Davis Remix) - Barbara Tucker, Federico Scavo
+12. Chic Mystique (Club Dub) - Chic
+13. The Way U Love Me (Dim's T.S.O.P. Version - Dimitri from Paris House Of Disco Retouch) - Marc Evans
+14. I Miss You (Original Mix) - Tommy Vercetti
+15. Liquid Spirit (Claptone Remix) - Gregory Porter
+
+Download: http://bit.ly/28NzQyu
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png">Episode 47 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 2)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/47Tape047allThatHouseTeumBar160624Part2.m4a" length="134667150" type="audio/mpeg" />
+		</item>
+		
+		<item>
+			<pubDate>Sat, 24 Jun 2016 07:00:00 +0900</pubDate>
 			<title>Episode 46 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 1)</title>
 			<author>noaidi</author>
 			<itunes:author>noaidi</itunes:author>
