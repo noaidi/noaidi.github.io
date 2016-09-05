@@ -15,8 +15,8 @@
 			<title>NOAIDI Tape</title>
 			<link>http://facebook.com/noaidij</link>
 		</image>
-		<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png" />
-		<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png">NOAIDI Tape</itunes:link>
+		<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png" />
+		<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">NOAIDI Tape</itunes:link>
 		<itunes:summary><![CDATA[
 Enjoy house music with NOAIDI!
 Follow NOAIDI on Facebook: http://facebook.com/noaidij
@@ -25,6 +25,48 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<language>en-us</language>
 		<copyright>© noaidi</copyright>
 		<itunes:category text="Music" />
+		
+		<item>
+			<pubDate>Mon, 5 Sep 2016 08:00:00 +0900</pubDate>
+			<title>Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)
+
+1. The Difficult Third Track (Original Mix) - Scott Diaz
+2. All My Love (Original Mix) - Studioheist
+3. Rotation (Riva Starr Edit) - Paolo Martini, Riva Starr, Paul C
+4. Valentine's Groove (Original Mix) - KiNK
+5. My Bohemianism (Original Mix) - Dj Sergey Kunakov
+6. Things Change (Original Mix) - Jordan O'Regan
+7. Self Is Steam (Main Mix) - Demarkus Lewis
+8. Jazzing (Original Mix) - D-Formation, Rick Pier O'Neil
+9. I Promise feat. Seven Davis Jr (Kon Rework) - Doc Daneeka
+10. RUDE feat. Jessica Eve feat. RT (Extended Mix) - Harry Romero, Jessica Eve, RT
+11. Strings (Camelphat Remix) - Illyus & Barrientos
+12. Jack Had A Groove (Original Mix) - Groovetonic
+13. Gravity Check (Original Mix) - Doorly, Darius Syrossian
+14. Drift Apart (Original Mix) - Fiona Beeson
+15. Logic (Original Mix) - Raumakustik
+16. No Reason (Original Mix) - Sonny Fodera, James Puentes
+17. Run All Night (Original Mix) - Taster Peter
+18. ROK (Christian Smith & Wehbba Remix) - Stacey Pullen
+19. In The Midnight (Mat.Joe Remix) - Riva Starr, Dajae
+20. Likes (Original Mix) - Skapes
+21. Dirty Groove (Original Mix) - Wade, Jay Lumen
+22. That's It (Original Mix) - Adrian Hour
+23. This Sound (Original Mix) - Low Steppa, Martin Ikin
+24. Show Me Your (Bleep) - EVOL
+
+Download: http://bit.ly/2bQEaz9
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/48Tape048grayIsTheNewBlackA.c.e.House160826.m4a" length="178531452" type="audio/mpeg" />
+		</item>
 		
 		<item>
 			<pubDate>Sat, 24 Jun 2016 08:00:00 +0900</pubDate>
