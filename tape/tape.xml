@@ -27,6 +27,40 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<itunes:category text="Music" />
 		
 		<item>
+			<pubDate>Sat, 24 Sep 2016 08:00:00 +0900</pubDate>
+			<title>Episode 49 of NOAIDI Tape (Beton Brut 160923)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 49 of NOAIDI Tape (Beton Brut 160923)
+
+1. Nothing's Changed (Vocal Mix) - Ten City, Joe Claussell
+2. The Way U Love Me (Dim's T.S.O.P. Version - Dimitri from Paris House Of Disco Retouch) - Marc Evans
+3. The Message feat. Jon Pierce (Terry Hunter Original Mix) - Jon Pierce, Terry Hunter
+4. He's A Friend feat. Kenny Bobien (Kenny Carpenter Motown Mix) - Kenny Bobien, Jose Burgos, DJ Spen
+5. Believe In Love (Incognito Remix) - JD73, Fraser
+6. Stay With Me (Libation Vocal) - Byron J. Moore
+7. Everybody Needs Somebody (Original Mix) - Earl Tutu, John Khan, Mike City
+8. The Way It Is (Kai & Kyle Main Mix) - Kai & Kyle, Selan
+9. I'll Be Here feat. John James (Original Mix) - The Checkup
+10. Feelin' Love (Ian Carey Main Mix) - Soulsearcher
+11. Can't Wait (Terry Hunter Club Mix) - Jill Scott, Terry Hunter
+12. Never (Maurice Joshua Unreleased Remix) - Jaheim
+13. Love Life (GF Vocal) - Genetic Funk, Michelle Weeks
+14. It's Alright, I Feel It! feat. Jocelyn Brown (M.A.W. 12" Mix) - Nuyorican Soul, Jocelyn Brown
+15. Elevation (DJ Spen & Michele Chiavarini Long Version Vocal Mix) - SEL
+16. Doing Things My Way (DJ Spen & Reelsoul Remix) - Michele Chiavarini, Cinnamon Brown
+
+Download: http://bit.ly/2cz1lcD
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">Episode 49 of NOAIDI Tape (Beton Brut 160923)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/49Tape049betonBrut160923.m4a" length="125394574" type="audio/mpeg" />
+		</item>
+		
+		<item>
 			<pubDate>Mon, 5 Sep 2016 08:00:00 +0900</pubDate>
 			<title>Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)</title>
 			<author>noaidi</author>
