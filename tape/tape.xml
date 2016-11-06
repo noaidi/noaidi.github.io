@@ -25,7 +25,48 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 		<language>en-us</language>
 		<copyright>© noaidi</copyright>
 		<itunes:category text="Music" />
-		
+
+		<item>
+			<pubDate>Sun, 6 Nov 2016 08:00:00 +0900</pubDate>
+			<title>Episode 50 of NOAIDI Tape (Seoul, 'Love City' @ Beton Brut 161105)</title>
+			<author>noaidi</author>
+			<itunes:author>noaidi</itunes:author>
+			<itunes:summary><![CDATA[
+Episode 50 of NOAIDI Tape (Seoul, 'Love City' @ Beton Brut 161105)
+
+1. What I Need (Kenny Carpenter Soul Edge Mix) - Giulio Bonaccio, Stephanie Cooke
+2. All About Love (Original Mix) - Mark Di Meo, Rona Ray
+3. Sunshine (DJ Spen & Gary Hudgins Long Version) - Cornell C.C. Carter
+4. Who Dares To Believe In Me? (Original Mix) - The Believers
+5. Choose (Soulful Tubes Version) - Allovers, Stee Downes, Feat
+6. Back & Forth (Two 4 Soul Vocal Mix) - Soulful Session, Chelsea Como
+7. Go Slow (Mark Di Meo Vocal Mix) - Natasha Watts, Mark Di Meo
+8. Bring the Summer Back (feat. Bertha) (Opolopo Remix) - Martin Denev, Bertha
+9. Love Never Felt So Good (DM-FK Classic Tribute Mix) - Justin Timberlake, Michael Jackson
+10. Pacifico (Luis Radio Remix) - Luciano Gioia
+11. Can't Go Back (Classic Vocal Mix) - Polina Griffith, Richard Earnshaw
+12. Stranger (Rob Hardt's Beach Vibe Extended) - Farina Miss
+13. Rok Me Allnite - Groove Assassin
+14. Can You Feel The Music - Ritmo Du Vela
+15. Survivin' (Joey Negro Club Mix) - Leroy Burgess, The Sunburst Band
+16. All I See Is You (Original Mix) - Full Intention
+17. In & Out Of Love (Original Mix) - Alex Millet, Soosmooth
+18. Da Hood (Original Mix) - Lexa Hill
+19. Need You Now (Sergio Flores Remix) - Soul Central
+20. Reset (Man Without A Clue Drop Remix) - Marc Evans, Namy
+21. Under A Spell (Mad Boss Dub Edit) - Deep Character, Mia Tutta Villa
+22. It's The Weekend (Rob Hardt Remix) - Leroy Burgess
+23. Barely Breaking Even (Opolopo Vocal Mix) - Leroy Burgess
+
+Download: http://bit.ly/2fqao0f
+Follow NOAIDI on Facebook: http://facebook.com/noaidij
+Subscribe on iTunes Podcast: http://bit.ly/1570kTf
+			]]></itunes:summary>
+			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png" />
+			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">Episode 50 of NOAIDI Tape (Seoul, 'Love City' @ Beton Brut 161105)</itunes:link>
+			<enclosure url="https://archive.org/download/noaidi-tape/50Tape050seoulloveCityBetonBrut161105.m4a" length="190994237" type="audio/mpeg" />
+		</item>
+
 		<item>
 			<pubDate>Sat, 24 Sep 2016 08:00:00 +0900</pubDate>
 			<title>Episode 49 of NOAIDI Tape (Seoul, 'Love City' @ Beton Brut 160923)</title>
@@ -59,7 +100,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">Episode 49 of NOAIDI Tape (Seoul, 'Love City' @ Beton Brut 160923)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/49Tape049betonBrut160923.m4a" length="125394574" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Mon, 5 Sep 2016 08:00:00 +0900</pubDate>
 			<title>Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)</title>
@@ -101,7 +142,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-grayistheblack.png">Episode 48 of NOAIDI Tape (Gray Is The New Black @ A.C.E. House 160826)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/48Tape048grayIsTheNewBlackA.c.e.House160826.m4a" length="178531452" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 24 Jun 2016 08:00:00 +0900</pubDate>
 			<title>Episode 47 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 2)</title>
@@ -133,7 +174,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-allthathouse.png">Episode 47 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 2)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/47Tape047allThatHouseTeumBar160624Part2.m4a" length="120397728" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 24 Jun 2016 07:00:00 +0900</pubDate>
 			<title>Episode 46 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 1)</title>
@@ -167,7 +208,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-allthathouse.png">Episode 46 of NOAIDI Tape (All That House @ Teum Bar 160624 Part 1)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/46Tape046allThatHouseTeumBar160624Part1.m4a" length="126683836" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 11 Jun 2016 11:55:00 +0900</pubDate>
 			<title>Episode 45 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 2)</title>
@@ -201,7 +242,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png">Episode 45 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 2)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/45Tape045youngSeoulByPostSeoul29center160609Part2.m4a" length="131507667" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 11 Jun 2016 00:00:00 +0900</pubDate>
 			<title>Episode 44 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 1)</title>
@@ -236,7 +277,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-youngseoulbypostseoul.png">Episode 44 of NOAIDI Tape (Young Seoul by Post Seoul @ 29CENTER 160609 Part 1)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/44Tape044.m4a" length="140239052" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Thu, 28 Apr 2016 00:00:00 +0900</pubDate>
 			<title>Episode 43 of NOAIDI Tape</title>
@@ -270,7 +311,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-electroattack.png">Episode 43 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/43Tape043.m4a" length="141768325" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 24 Apr 2016 00:00:00 +0900</pubDate>
 			<title>Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</title>
@@ -305,7 +346,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-electroattack.png">Episode 42 of NOAIDI Tape (Adlib Market @ JW MARRIOTT 160423)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/42Tape042.m4a" length="138496187" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Fri, 27 Nov 2015 00:00:00 +0900</pubDate>
 			<title>Episode 41 of NOAIDI Tape (Electro Attack @ Escape 151127 Part 1)</title>
@@ -342,7 +383,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 41 of NOAIDI Tape (Electro Attack @ Escape 151127 Part 1)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/41Tape041electroAttackEscape151127Part1.m4a" length="125633268" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Tue, 15 Sep 2015 00:00:00 +0900</pubDate>
 			<title>Episode 40 of NOAIDI Tape</title>
@@ -376,7 +417,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 40 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/40Tape040.m4a" length="129015038" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 8 Aug 2015 00:00:00 +0900</pubDate>
 			<title>Episode 39 of NOAIDI Tape</title>
@@ -412,7 +453,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 39 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/39Tape039.m4a" length="133651525" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Mon, 20 Jul 2015 00:00:00 +0900</pubDate>
 			<title>Episode 38 of NOAIDI Tape (Summer Vibes Korea 2015 @ Busan Songdo Beach)</title>
@@ -453,7 +494,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 38 of NOAIDI Tape (Summer Vibes Korea 2015 @ Busan Songdo Beach)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/38Tape038summerVibesKorea2015BusanSongdoBeach.m4a" length="146124482" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Thu, 16 Jul 2015 00:00:00 +0900</pubDate>
 			<title>Episode 37 of NOAIDI Tape (Out of EEG party @ Wonder Ground)</title>
@@ -488,7 +529,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 37 of NOAIDI Tape (Out of EEG party @ Wonder Ground)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/37Tape037.m4a" length="124487334" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Fri, 22 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 36 of NOAIDI Tape</title>
@@ -521,7 +562,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 36 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/36Tape036.m4a" length="122946575" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Fri, 15 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 35 of NOAIDI Tape</title>
@@ -551,7 +592,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 35 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/35Tape035.m4a" length="126419492" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Fri, 8 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 34 of NOAIDI Tape (Flower Night @ Wonder Ground)</title>
@@ -585,7 +626,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 34 of NOAIDI Tape (Flower Night @ Wonder Ground)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/34Tape034.m4a" length="130405127" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Fri, 1 May 2015 00:00:00 +0900</pubDate>
 			<title>Episode 33 of NOAIDI Tape</title>
@@ -616,7 +657,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 33 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/33Tape033.m4a" length="122323645" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sun, 1 Mar 2015 00:00:00 +0900</pubDate>
 			<title>Episode 32 of NOAIDI Tape</title>
@@ -646,7 +687,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 32 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/32Tape032.m4a" length="124498971" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 28 Feb 2015 00:00:00 +0900</pubDate>
 			<title>Episode 31 of NOAIDI Tape</title>
@@ -677,7 +718,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 31 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/31Tape031.m4a" length="126537351" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sat, 31 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 30 (Sunset Mix) of NOAIDI Tape</title>
@@ -712,7 +753,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 30 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/30Tape030sunsetMix.m4a" length="148888426" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Thu, 22 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 29 (Sunset Mix) of NOAIDI Tape</title>
@@ -728,7 +769,7 @@ Episode 29 (Sunset Mix) of NOAIDI Tape
 5. The Gift (Mark Knight Remix) - Mike Mago
 6. Put'em High feat. Therese (Atilla Cetin Nitec Remix) - Stonebridge
 7. Love Hope Doubt (Original Mix) - Ganzfeld Effect
-8. Prelude (Original Mix) - Michael Calfan 
+8. Prelude (Original Mix) - Michael Calfan
 9. Digital Rush (Original Mix) - Todd Valex
 10. Collateral Effects (Original Mix) - EDX
 11. Shy (Original Mix) - Skyentist
@@ -745,7 +786,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 29 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/29Tape029sunsetMix.m4a" length="130956394" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Tue, 20 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 28 (Sunset Mix) of NOAIDI Tape</title>
@@ -780,7 +821,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 28 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/28Tape028sunsetMix.m4a" length="145435691" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Sun, 18 Jan 2015 00:00:00 +0900</pubDate>
 			<title>Episode 27 (Sunset Mix) of NOAIDI Tape</title>
@@ -813,7 +854,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 27 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/27Tape027sunsetMix.m4a" length="129023161" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 18 Jul 2014 00:00:00 +0900</pubDate>
 			<title>Episode 26 of NOAIDI Tape</title>
@@ -835,7 +876,7 @@ Episode 26 of NOAIDI Tape
 11. Gold Skies feat Aleesia (Original Mix) - Sander Van Doorn, Martin Garrix, DVBBS
 12. Ten Feet Tall feat. Wrabel (David Guetta Remix) - Afrojack
 13. Knock You Out (Hardwell Remix) - Bingo Players
-14. Everyday of My Life (Original Mix) - Third Party 
+14. Everyday of My Life (Original Mix) - Third Party
 15. Feet On The Ground (Original Mix) - Nicky Romero, Anouk
 16. Alone feat. Lauren Evans (Thomas Newson Remix) - Armin van Buuren
 
@@ -847,7 +888,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/26%20Tape%20026.m4a" length="151088949" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 18 Jun 2014 00:00:00 +0900</pubDate>
 			<title>Episode 25 (Sunset Mix) of NOAIDI Tape</title>
@@ -879,7 +920,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 25 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/25%20Tape%20025%20%28Sunset%20Mix%29.m4a" length="126683830" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 7 May 2014 00:00:00 +0900</pubDate>
 			<title>Episode 24 of NOAIDI Tape</title>
@@ -910,7 +951,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 24 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/24%20Tape%20024.m4a" length="121680478" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 30 Apr 2014 00:00:00 +0900</pubDate>
 			<title>Episode 23 of NOAIDI Tape</title>
@@ -941,7 +982,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 23 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/23%20Tape%20023.m4a" length="125029987" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 12 Apr 2014 00:00:00 +0900</pubDate>
 			<title>Episode 22 (Beach Mix) of NOAIDI Tape</title>
@@ -972,7 +1013,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-beachmix.png">Episode 22 (Beach Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/22%20Tape%20022%20%28Beach%20Mix%29.m4a" length="152889050" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 9 Apr 2014 00:00:00 +0900</pubDate>
 			<title>Episode 21 of NOAIDI Tape (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11)</title>
@@ -1004,7 +1045,7 @@ Subscribe on iTunes Podcast: http://goo.gl/RU3CaG
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 21 of NOAIDI Tape (Sunset Mix - Craftsman Ship Open Studio Opening Party 14'04/11)</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/21%20Tape%20021%20%28Sunset%20Mix%20-%20Craftsman%20Ship%20Open%20Studio%20Opening%20Party%2014%2704_11%29.m4a" length="116810807" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 26 Feb 2014 00:00:00 +0900</pubDate>
 			<title>Episode 20 of NOAIDI Tape</title>
@@ -1036,7 +1077,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 20 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/20%20Tape%20020.m4a" length="126678536" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 22 Jan 2014 00:00:00 +0900</pubDate>
 			<title>Episode 19 of NOAIDI Tape</title>
@@ -1064,7 +1105,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 19 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/19%20Tape%20019.m4a" length="103249121" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 15 Jan 2014 00:00:00 +0900</pubDate>
 			<title>Episode 18 (Sunset Mix) of NOAIDI Tape</title>
@@ -1092,7 +1133,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 18 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/18%20Tape%20018%20%28Sunset%20Mix%29.m4a" length="98516503" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 8 Jan 2014 00:00:00 +0900</pubDate>
 			<title>Episode 17 of NOAIDI Tape</title>
@@ -1120,7 +1161,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 17 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/17%20Tape%20017.m4a" length="94811190" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 1 Jan 2014 00:00:00 +0900</pubDate>
 			<title>Episode 16 of NOAIDI Tape</title>
@@ -1148,7 +1189,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 16 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/16%20Tape%20016.m4a" length="94311089" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 25 Dec 2013 00:00:00 +0900</pubDate>
 			<title>Episode 15 (Sunset Mix - Deluxe) of NOAIDI Tape</title>
@@ -1189,7 +1230,7 @@ Subscribe on iTunes Podcast: http://bit.ly/1570kTf
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 15 (Sunset Mix - Deluxe) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/15%20Tape%20015%20%28Sunset%20Mix%20-%20Deluxe%29.m4a" length="228470824" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 18 Dec 2013 00:00:00 +0900</pubDate>
 			<title>Episode 14 of NOAIDI Tape</title>
@@ -1217,7 +1258,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 13 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/14%20Tape%20014.m4a" length="93975853" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 11 Dec 2013 00:00:00 +0900</pubDate>
 			<title>Episode 13 (Sunset Mix) of NOAIDI Tape</title>
@@ -1245,7 +1286,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 13 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/13%20Tape%20013%20%28Sunset%20Mix%29.m4a" length="93684675" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 4 Dec 2013 00:00:00 +0900</pubDate>
 			<title>Episode 12 of NOAIDI Tape</title>
@@ -1273,7 +1314,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 12 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/12%20Tape%20012.m4a" length="95355831" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 27 Nov 2013 00:00:00 +0900</pubDate>
 			<title>Episode 11 of NOAIDI Tape</title>
@@ -1301,7 +1342,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 11 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/11%20Tape%20011.m4a" length="92364628" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 20 Nov 2013 00:00:00 +0900</pubDate>
 			<title>Episode 10 (Sunset Mix) of NOAIDI Tape</title>
@@ -1329,7 +1370,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape-sunsetmix.png">Episode 10 (Sunset Mix) of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/10%20Tape%20010%20%28Sunset%20Mix%29.m4a" length="77048790" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 13 Nov 2013 00:00:00 +0900</pubDate>
 			<title>Episode 9 of NOAIDI Tape</title>
@@ -1357,7 +1398,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 9 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/09%20Tape%20009.m4a" length="87816846" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 6 Nov 2013 00:00:00 +0900</pubDate>
 			<title>Episode 8 of NOAIDI Tape</title>
@@ -1385,7 +1426,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 8 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/08%20Tape%20008.m4a" length="83316573" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 30 Oct 2013 00:00:00 +0900</pubDate>
 			<title>Episode 7 of NOAIDI Tape</title>
@@ -1413,7 +1454,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 7 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/07%20Tape%20007.m4a" length="61910250" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 23 Oct 2013 00:00:00 +0900</pubDate>
 			<title>Episode 6 of NOAIDI Tape</title>
@@ -1441,7 +1482,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 6 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/06%20Tape%20006.m4a" length="88438193" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 16 Oct 2013 00:00:00 +0900</pubDate>
 			<title>Episode 5 of NOAIDI Tape</title>
@@ -1469,7 +1510,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 5 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/05%20Tape%20005.m4a" length="93851057" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 9 Oct 2013 00:00:00 +0900</pubDate>
 			<title>Episode 4 of NOAIDI Tape</title>
@@ -1497,7 +1538,7 @@ Subscribe on iTunes Podcast: http://goo.gl/52eaqQ
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 4 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/04%20Tape%20004.m4a" length="108500214" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 2 Oct 2013 00:00:00 +0900</pubDate>
 			<title>Episode 3 of NOAIDI Tape</title>
@@ -1525,7 +1566,7 @@ http://facebook.com/noaidij
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 3 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/03%20Tape%20003.m4a" length="106730342" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 25 Sep 2013 00:00:00 +0900</pubDate>
 			<title>Episode 2 of NOAIDI Tape</title>
@@ -1553,7 +1594,7 @@ http://facebook.com/noaidij
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 2 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/02%20Tape%20002.m4a" length="89453574" type="audio/mpeg" />
 		</item>
-		
+
 		<item>
 			<pubDate>Wed, 18 Sep 2013 00:00:00 +0900</pubDate>
 			<title>Episode 1 of NOAIDI Tape</title>
@@ -1562,25 +1603,25 @@ http://facebook.com/noaidij
 			<itunes:summary><![CDATA[
 Episode 1 of NOAIDI Tape
 
-1. Everything feat. Hadley (Cazzette Remix) - EDX, Hadley, Cazzette 
-2. Is This Love (Eddy De Datsu Remix) - Alex Gaudino, Jordin Sparks, Eddy De Datsu 
-3. Escape feat. Bright Lights (Original Mix) - Paris & Simo, Bright Lights, 3LAU 
-4. There And Back (Original Mix) - Wolfgang Gartner 
-5. Swoon (Original Mix) - Tim Mason 
-6. Burn Forever (Michael Brun Remix) - Those Usual Suspects, Nordean, Michael Brun, Erik Hecht 
-7. No One Knows Who We Are (Original Mix) - Kaskade, Swanky Tunes, Lights 
-8. Alive (Original Mix) - Krewella 
-9. Champs - Moguai 
-10. Goodbye feat. Polina (Original Mix) - Michael Woods, Sheldon, Polina 
+1. Everything feat. Hadley (Cazzette Remix) - EDX, Hadley, Cazzette
+2. Is This Love (Eddy De Datsu Remix) - Alex Gaudino, Jordin Sparks, Eddy De Datsu
+3. Escape feat. Bright Lights (Original Mix) - Paris & Simo, Bright Lights, 3LAU
+4. There And Back (Original Mix) - Wolfgang Gartner
+5. Swoon (Original Mix) - Tim Mason
+6. Burn Forever (Michael Brun Remix) - Those Usual Suspects, Nordean, Michael Brun, Erik Hecht
+7. No One Knows Who We Are (Original Mix) - Kaskade, Swanky Tunes, Lights
+8. Alive (Original Mix) - Krewella
+9. Champs - Moguai
+10. Goodbye feat. Polina (Original Mix) - Michael Woods, Sheldon, Polina
 
 Download: http://goo.gl/rWTNmH
-Follow NOAIDI on Facebook: 
+Follow NOAIDI on Facebook:
 http://facebook.com/noaidij
 			]]></itunes:summary>
 			<itunes:image href="http://noaidi.github.io/tape/noaidi-tape.png" />
 			<itunes:link rel="image" type="image/png" href="http://noaidi.github.io/tape/noaidi-tape.png">Episode 1 of NOAIDI Tape</itunes:link>
 			<enclosure url="https://archive.org/download/noaidi-tape/01%20Tape%20001.m4a" length="100587740" type="audio/mpeg"/>
 		</item>
-		
+
 	</channel>
 </rss>
