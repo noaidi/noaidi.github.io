@@ -1,0 +1,67 @@
+@import url(fonts/capsuula/stylesheet.css);
+@import url(fonts/texgyrecursor/stylesheet.css);
+@import url(fonts/texgyreheros/stylesheet.css);
+
+body, input {
+	-webkit-text-size-adjust: 100%;
+	font-family:
+		'TeXGyreHeros',
+		Helvetica, 'Myriad Pro', 'Lucida Grande',
+		Lucida, Tahoma, Arial,
+		sans-serif;
+}
+
+pre, code {
+	font-family: 'Andale Mono', 'Courier New', Courier,
+		Lucidatypewriter, Fixed, monospace;
+	font-size: 12px;
+}
+
+/* basic
+ * --------------------------------------------------------------------- */
+header, nav, article, aside, footer, hgroup, section { display: block; }
+a:hover { cursor: pointer; }
+.clear { clear: both; }
+.packed { width: 1%; white-space: nowrap; }
+
+/* redohtml
+ * --------------------------------------------------------------------- */
+.redohtml {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	color: #222;
+	background-color: #fff;
+}
+
+.redohtml p { margin: 1em 0; }
+.redohtml h1 { font-weight: bold; font-size: 2em; margin: 0.67em 0; }
+.redohtml h2 { font-weight: bold; font-size: 1.5em; margin: 0.83em 0; }
+.redohtml h3 { font-weight: bold; font-size: 1.17em; margin: 1em 0; }
+.redohtml h4 { font-weight: bold; margin: 1.33em 0; }
+.redohtml h5 { font-weight: bold; font-size: 0.83em; margin: 1.67em 0; }
+.redohtml h6 { font-weight: bold; font-size: 0.67em; margin: 2.33em 0; }
+
+.redohtml pre {
+	font-family: monospace;
+	margin: 1em 0;
+	white-space: pre;
+}
+
+.redohtml ul { list-style: disc; }
+.redohtml ul ul { list-style: circle; }
+.redohtml ul ul ul { list-style: square; }
+.redohtml ol { list-style: decimal; }
+
+.redohtml ol,
+.redohtml ul,
+.redohtml dl {
+	/* IE7: reset rtl list margin. (#7334) */
+	*margin-right:0px;
+	/* preserved spaces for rtl list item bullets. (#6249)*/
+    padding-right:40px;
+
+	margin: 1em 0;
+	padding-left: 40px;
+}
+
+.redohtml address { font-style: italic; }

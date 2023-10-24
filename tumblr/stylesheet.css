@@ -1,0 +1,290 @@
+@import url(undohtml.css);
+@import url(redohtml.css);
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
+@import url(fonts/capsuula/stylesheet.css);
+
+html {
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+body {
+	background: url(img/bg.png) repeat center top;
+	text-shadow: #fff 0 1px 1px;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+a {
+	color: #2a3033;
+}
+
+#wrap {
+	margin: 0 auto;
+	width: 70%;
+	position: relative;
+	padding-left: 68px;
+}
+
+#header a {
+	width: 136px;
+	display: block;
+	padding: 30px 0;
+	text-align: center;
+}
+#header a strong {
+	font-family: 'Capsuula', sans-serif;
+	display: block;
+	font-size: 50px;
+	font-weight: normal;
+}
+#header a span {
+	display: block;
+	margin-top: -5px;
+	font-family: 'Capsuula', sans-serif;
+	font-size: 20px;
+}
+
+#top {
+	position: absolute;
+	top: 10px;
+	left: 250px;
+}
+
+#top ul {
+	float: left;
+	margin-right: 40px;
+}
+
+#top li {
+	font-size: 14px;
+}
+
+#top li.info {
+	font-weight: bold;
+	line-height: 200%;
+	text-transform: capitalize;
+}
+
+.bbx {
+	clear: both;
+	width: 136px;
+	height: 34px;
+	background: #2a3033;
+}
+
+.long {
+	height: 170px;
+}
+
+.observer {
+	display: none;
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	font-family: 'Capsuula';
+	font-size: 18px;
+	line-height: 18px;
+	color: #ffd;
+	text-shadow: none;
+	text-align: center;
+	padding-top: 8px;
+	height: 26px;
+}
+
+.observer a {
+	display: inline-block;
+	color: #ffd;
+}
+
+.observer a:hover {
+	color: #fff;
+}
+
+.post {
+	clear: both;
+	line-height: 160%;
+	margin: 34px 68px;
+	max-width: 512px;
+}
+.post > * {
+	transition: .3s transform;
+}
+.post:hover > * {
+	transform: translateX(10px);
+}
+
+.post .header {
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #5f6364;
+	float: left;
+}
+
+.post .body a {
+	text-decoration: underline;
+	display: block;
+	background: transparent !important;
+}
+
+#top a:hover,
+#footer a:hover,
+.post .desc a:hover,
+.post .header a:hover,
+.post .body a:hover,
+.post .footer a:hover {
+	background: #2a3033;
+	color: #ffd;
+	text-decoration: none;
+	text-shadow: none;
+}
+
+#nav p {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#nav p.page a {
+	margin-right: .5em;
+	font-family: 'Capsuula';
+	font-size: 50px;
+}
+
+#search {
+	padding: 1em 0;
+}
+#search input {
+	border: none;
+	border-bottom: 1px solid #5f6364;
+	background: transparent;
+	outline: none;
+	line-height: 20px;
+	padding: 0;
+	height: 21px;
+	font-size: 14px;
+}
+
+.post .title {
+	font-family: 'Capsuula', 'Noto Sans KR', sans-serif;
+	font-size: 24px;
+	line-height: 120%;
+	text-transform: uppercase;
+	clear: both;
+	text-shadow: none;
+}
+
+.post .tags {
+	font-family: 'Capsuula', 'Noto Sans KR', sans-serif;
+	font-size: 14px;
+	line-height: 120%;
+	text-transform: uppercase;
+}
+
+.post .tags a {
+	display: block;
+	float: left;
+	margin-right: 1em;
+}
+
+.post .times {
+	font-size: 18px;
+	line-height: 120%;
+	clear: both;
+}
+
+.post .body {
+	margin-bottom: 17px;
+	clear: both;
+}
+
+.post p {
+	margin-bottom: 1em;
+}
+
+.post ul {
+	list-style: circle;
+	padding-left: 1.5em;
+	margin-bottom: 1em;
+}
+
+.post .quote {
+	clear: both;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+.post .quote .body {
+	clear: none;
+	padding-left: 50px;
+}
+
+.post .quote big {
+	font-family: Georgia, Serif;
+	font-size: 72px;
+	font-weight: bold;
+	line-height: 100%;
+	float: left;
+	display: block;
+	margin-right: 10px;
+}
+
+.post .desc {
+	clear: both;
+}
+
+.post blockquote {
+	padding-left: 1em;
+	border-left: 1px solid #7e9099;
+}
+
+.post .footer {
+	clear: both;
+	padding-top: 34px;
+}
+
+.post .footer .comments {
+	font-size: 16px;
+	line-height: 120%;
+	text-transform: uppercase;
+}
+
+.html_photoset embed,
+.post img {
+	display: block;
+	border: 6px solid #fff;
+
+	-webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	-o-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#footer {
+	padding: 34px 0;
+	padding-left: 68px;
+}
+
+#comments {
+	padding-left: 68px;
+}
+
+.notes-count {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+#notes {
+	margin-top: 10px;
+}
+
+#notes ol {
+	margin-bottom: 20px;
+}
+
+#notes li {
+	margin-bottom: 10px;
+}
+
+.dsq-comment-count {
+	display: none;
+}

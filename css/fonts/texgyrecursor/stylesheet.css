@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'TeXGyreCursor';
+	src: url('texgyrecursor-regular.eot');
+	src: local('☺'),
+		url('texgyrecursor-regular.eot?#iefix') format('embedded-opentype'),
+		url('texgyrecursor-regular.woff') format('woff'),
+		url('texgyrecursor-regular.ttf') format('truetype'),
+		url('texgyrecursor-regular.svg#webfontS7pQfmey') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TeXGyreCursor';
+	src: url('texgyrecursor-italic.eot');
+	src: local('☺'),
+		url('texgyrecursor-italic.eot?#iefix') format('embedded-opentype'),
+		url('texgyrecursor-italic.woff') format('woff'),
+		url('texgyrecursor-italic.ttf') format('truetype'),
+		url('texgyrecursor-italic.svg#webfontWDU33mYW') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'TeXGyreCursor';
+	src: url('texgyrecursor-bold.eot');
+	src: local('☺'),
+		url('texgyrecursor-bold.eot?#iefix') format('embedded-opentype'),
+		url('texgyrecursor-bold.woff') format('woff'),
+		url('texgyrecursor-bold.ttf') format('truetype'),
+		url('texgyrecursor-bold.svg#webfontSS9ah0ta') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TeXGyreCursor';
+	src: url('texgyrecursor-bolditalic.eot');
+	src: local('☺'),
+		url('texgyrecursor-bolditalic.eot?#iefix') format('embedded-opentype'),
+		url('texgyrecursor-bolditalic.woff') format('woff'),
+		url('texgyrecursor-bolditalic.ttf') format('truetype'),
+		url('texgyrecursor-bolditalic.svg#webfontqufM9ScK') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}

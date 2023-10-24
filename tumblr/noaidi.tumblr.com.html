@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>{Title}{block:SearchPage} &mdash; Search results for: {SearchQuery}{/block:SearchPage}{block:PostSummary} &mdash; {PostSummary}{/block:PostSummary}</title>
+	<link rel="shortcut icon" href="{Favicon}" />
+	<link rel="alternate" type="application/rss+xml" href="{RSS}" />
+	<link rel="stylesheet" type="text/css" href="https://www.noaidi.com/tumblr/stylesheet.css" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-10080525-4']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	<div id="wrap">
+		<div class="bbx observer">
+			<a href="#" class="prev">PREV</a> |
+			<a href="#" class="top">TOP</a> |
+			<a href="#" class="next">NEXT</a>
+		</div>
+		<div id="header">
+			<div class="bbx long"></div>
+			<a href="/">
+				<strong>noaidi</strong><br />
+				<span>too simple</span>
+			</a>
+			<div class="bbx"></div>
+		</div> <!-- #header -->
+		<div id="top">
+			<ul id="about">
+				<li class="info">Seunghyuk Choi</li>
+				<li class="link"><a href="http://www.facebook.com/noaidi2">facebook</a></li>
+				<li class="link"><a href="http://www.twitter.com/noaidi2">Twitter</a></li>
+				<li class="link"><a href="http://www.raysoda.com/noaidi">RaySoda</a></li>
+				<li class="link"><a href="http://soundcloud.com/noaidi">SoundCloud</a></li>
+				<li class="link"><a href="http://pinterest.com/noaidi">Pinterest</a></li>
+			</ul> <!-- #about -->
+			<ul id="tags">
+				<li class="info">tags</li>
+				<li class="link"><a href="/tagged/photo">photo</a></li>
+				<li class="link"><a href="/tagged/drawing">drawing</a></li>
+				<li class="link"><a href="/tagged/music">music</a></li>
+				<li class="link"><a href="/tagged/composition">composition</a></li>
+				<li class="link"><a href="/tagged/blah">blah</a></li>
+				<li class="link"><a href="/tagged/movie">movie</a></li>
+			</ul> <!-- #tags -->
+		</div> <!-- #top -->
+		<div id="body">
+
+{block:Posts}      
+<div class="post">
+	<div class="header">
+	{block:HasTags}
+		<div class="tags">
+		{block:Tags}
+			<a href="{TagURL}">{Tag}</a>
+		{/block:Tags}
+		</div> <!-- .tags -->
+	{/block:HasTags}
+	{block:Title}
+		<div class="title">
+			<a href="{Permalink}">
+				{Title}
+			</a>
+		</div>
+	{/block:Title}
+	{block:Audio}
+		<div class="title">
+			<a href="{Permalink}">
+				{block:Artist}{Artist}: {/block:Artist}
+				{block:TrackName}{TrackName}{/block:TrackName}
+			</a>
+		</div>
+	{/block:Audio}
+		<div class="times">
+			<a href="{Permalink}">
+				{12Hour}:{Minutes}{AmPm} on {ShortDayOfWeek},
+				{Month} {DayOfMonth}{DayOfMonthSuffix} {Year}
+			</a>
+		</div>
+	</div> <!-- .header -->
+
+{block:Quote}
+	<div class="quote">
+		<big>&#147;</big>
+		<div class="body">
+			{Quote}
+		</div> <!-- .body -->
+	{block:Source}
+		<div class="desc">&mdash; {Source}</div>
+	{/block:Source}
+	</div> <!-- .quote -->
+{/block:Quote}
+
+{block:Text}
+	<div class="text">
+		<div class="body">
+			{body}
+		</div> <!-- .body -->
+	{block:Caption}
+		<div class="desc">&mdash; {Caption}</div>
+	{/block:Caption}
+	</div> <!-- .text -->
+{/block:Text}
+
+{block:Photo}
+	<div class="photo">
+		<div class="body">
+			<a href="{PhotoURL-HighRes}"><img
+				src="{PhotoURL-500}"
+				alt="{PhotoAlt}" /></a>
+		</div> <!-- .body -->
+	{block:Caption}
+		<div class="desc">{Caption}</div>
+	{/block:Caption}
+	</div> <!-- .photo -->
+{/block:Photo}
+
+{block:Video}
+	<div class="video">
+		<div class="body">
+			{Video-500}
+		</div> <!-- .body -->
+	{block:Caption}
+		<div class="desc">{Caption}</div>
+	{/block:Caption}
+	</div> <!-- .video -->
+{/block:Video}
+
+{block:Audio}
+	<div class="audio">
+		<div class="body">
+	{block:AlbumArt}
+		<img src="{AlbumArtURL}" alt="" />
+	{/block:AlbumArt}
+		{AudioPlayerBlack}
+		</div> <!-- .body -->
+	{block:Caption}
+		<div class="desc">{Caption}</div>
+	{/block:Caption}
+	</div> <!-- .audio -->
+{/block:Audio}
+
+{block:Chat}
+	<div class="chat">
+		<div class="body">
+		{block:Lines}
+			{block:Label}<strong>{label}</strong>{/block:Label} {Line}<br />
+		{/block:Lines}
+		</div> <!-- .body -->
+	</div> <!-- .chat -->
+{/block:Chat}
+
+{block:Link}
+	<div class="link">
+		<div class="body"><a href="{URL}" {Target}>{Name}</a></div>
+	{block:Description}
+		<div class="desc">{Description}</div>
+	{/block:Description}
+	</div>
+{/block:Link}
+
+{block:Answer}
+	{Answer}
+{/block:Answer}
+
+	<div class="footer">
+		<div class="notes-count">
+			<a href="{Permalink}#notes">{NoteCountWithLabel}</a>
+		</div>
+	{block:PostNotes}
+		<div id="notes">{PostNotes}</div>
+	{/block:PostNotes}
+		<div class="comments">
+			<a class="dsq-comment-count"
+                data-disqus-identifier="{PostID}"
+				href="{Permalink}#disqus_thread">Comments</a>
+		</div> <!-- .comments -->
+	</div> <!-- .footer -->
+</div> <!-- .post -->
+<div class="bbx"></div>
+{/block:Posts}
+
+<div id="comments">
+{block:Permalink}
+	<script type="text/javascript">//<![CDATA[
+		var disqus_url = "{Permalink}";
+	//	var disqus_identifier = "{PostID}";
+	//	var disqus_title ="{block:PostTitle}{PostTitle}{/block:PostTitle}";
+	//]]></script>
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">//<![CDATA[
+        var disqus_shortname = 'noaidi';
+		(function() {
+			var dsq = document.createElement('script');
+			dsq.type = 'text/javascript';
+			dsq.async = true;
+            dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+			(document.getElementsByTagName('head')[0] ||
+			 document.getElementsByTagName('body')[0]).appendChild(dsq);
+		})();
+	//]]></script>
+	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<!--a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a-->
+{/block:Permalink}
+    
+	<script type="text/javascript">
+    var disqus_shortname = 'noaidi';
+    (function () {
+        var s = document.createElement('script');
+        s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] ||
+         document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+</div> <!-- #comments -->
+
+
+		</div> <!-- #body -->
+		<div class="bbx"></div>
+		<div id="footer">
+			<div id="nav">
+				<p class="page">
+				{block:PermalinkPagination}
+					{block:PreviousPost}
+						<a href="{PreviousPost}">&#171; backward</a>
+					{/block:PreviousPost} 
+					{block:NextPost}
+						<a href="{NextPost}">forward &#187;</a>
+					{/block:NextPost}
+				{/block:PermalinkPagination}
+				{block:PreviousPage}
+					<a href="{PreviousPage}">&#171; backward</a>
+				{/block:PreviousPage}
+				{block:NextPage}
+					<a href="{NextPage}">forward &#187;</a>
+				{/block:NextPage}
+				</p>
+				<p>
+					<a href="/archive">archive</a>,
+					<a href="/random">random</a>,
+					<a href="{RSS}">rss</a>,
+					<a href="/ask">ask</a>
+				</p>
+			</div> <!-- #nav -->
+			<div id="search">
+			<form action="/search" method="get">
+				<input type="text" name="q" value=""
+					placeholder="Search"
+					results="5"
+					autosave="com.tumblr.stalebread" />
+			</form>
+			</div> <!-- #search -->
+			<div id="copy">
+				Designed by
+				<a
+					href="mailto:noaidi@deerstep.com">noaidi</a>@<a
+					href="http://www.deerstep.com/">deerstep</a>
+			</div> <!-- #copy -->
+		</div> <!-- #footer -->
+		<div class="bbx long"></div>
+	</div>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src="https://www.noaidi.com/tumblr/main.js"></script>
+</body>
+</html>
