@@ -4,7 +4,7 @@ var disqus_identifier = '';
 /* hash
  * --------------------------------------------------------------------- */
 $(function() {
-	$(window).bind('hashchangedone', function(e, url) {
+	$(window).bind('hashchangedone', function(_, url) {
 		$('#nav a').removeClass('current');
 		var href = (url.replace(/^\//, '').split('/'))[0];
 		$('#nav a[href="#/'+href+'"]').addClass('current');
@@ -149,7 +149,7 @@ $(function() {
 $.disqus = function(opt) {
 	opt = $.extend(true, {
 		'post': null,
-		'click': function(e) { return; },
+		'click': function() {},
 		'extra': null
 	}, opt);
 
@@ -318,91 +318,119 @@ $.fn.drawPostPhoto = function(data, opt) {
 		caption = $('<div class="caption"></div>').appendTo(target);
 	}
 
+	function srcFromSrcset(src) {
+		var [s, _] = src.trim().split(' ')
+		return s;
+	}
+
 	$(data.response.posts).each(function() {
 		var post = this;
-		$(post.photos).each(function() {
-			var src = this.alt_sizes[this.alt_sizes.length - 1].url
-			var href = $.tumblrPhotoSrc(this);
-			var parsedUrl = location.hash.split('/');
-			var controller = '';
-			var id = '';
+		var src = '';
+		var href = '';
 
-			if (parsedUrl.length > 1) {
-				controller = parsedUrl[1];
+		switch (post.type) {
+		case 'text':
+			var div = $('<div />').html(post.body);
+			if (div.length > 0) {
+				var img = div.find('img');
+				var srcset = img.attr('srcset').split(',');
+				if (srcset.length > 2) {
+					src = srcFromSrcset(srcset[0]);
+					href = srcFromSrcset(srcset[srcset.length - 1]);
+				}
 			}
+			break;
+		case 'photo':
+			$(post.photos).each(function() {
+				src = this.alt_sizes[this.alt_sizes.length - 1].url
+				href = $.tumblrPhotoSrc(this);
+			});
+			break;
+		}
 
-			if (parsedUrl.length > 2) {
-				id = parsedUrl[2];
-			}
+		if (!src || !href) {
+			return;
+		}
 
-			target.append(
-				$('<div class="article" />').append(
-					$('<a class="entry"></a>').append(
-						$('<span class="screen"></span>')
-					).append(
-						$('<img src="'+src+'" alt="" />')
-					).append(
-						$('<img src="'+href+'" alt="" />')
-					).attr('href', href)
-					.click(function(e) {
-						var href = $(this).attr('href');
-						$('#bg').dfullbgPlay(href, true, e);
-						target.find('a.entry').not(
-							$(this).addClass('current')
-								.addClass('view')
-						).removeClass('current');
-						if ($.isSingleView()) {
-							$(this).parent()
-								.find('.disqus a.launcher').click();
-						}
-						caption.empty().append(
-							$('<span class="date"></span>')
-								.append($.convertDate(post))
-						).append(
-							$('<span class="text"></span>')
-								.append(post.caption)
-						);
-						return false;
-					})
+		var parsedUrl = location.hash.split('/');
+		var controller = '';
+		var id = '';
+
+		if (parsedUrl.length > 1) {
+			controller = parsedUrl[1];
+		}
+
+		if (parsedUrl.length > 2) {
+			id = parsedUrl[2];
+		}
+
+		target.append(
+			$('<div class="article" />').append(
+				$('<a class="entry"></a>').append(
+					$('<span class="screen"></span>')
 				).append(
-					$.disqus({
-						'post': post,
-						'extra': src,
-						'click': function(e, thread) {
-							var buttons =
-								$('<div class="buttons"></div>')
-									.appendTo(thread);
-							var url = (location.href.split('#'))[0] +
-								'#/' + controller + '/' + post.id;
+					$('<img src="'+src+'" alt="" />')
+				).append(
+					$('<img src="'+href+'" alt="" />')
+				).attr('href', href)
+				.click(function(e) {
+					var href = $(this).attr('href');
+					$('#bg').dfullbgPlay(href, true, e);
+					target.find('a.entry').not(
+						$(this).addClass('current')
+							.addClass('view')
+					).removeClass('current');
+					if ($.isSingleView()) {
+						$(this).parent()
+							.find('.disqus a.launcher').click();
+					}
+					caption.empty().append(
+						$('<span class="date"></span>')
+							.append($.convertDate(post))
+					).append(
+						$('<span class="text"></span>')
+							.append(post.caption)
+					);
+					return false;
+				})
+			).append(
+				$.disqus({
+					'post': post,
+					'extra': src,
+					'click': function(_, thread) {
+						var buttons =
+							$('<div class="buttons"></div>')
+								.appendTo(thread);
+						var url = (location.href.split('#'))[0] +
+							'#/' + controller + '/' + post.id;
 
-							if (id == '') {
-								buttons.append(
-									$('<a href="#/'+controller+'/'+
-										post.id+'" class="view">Single view</a>')
-								);
-							} else {
-								buttons.append(
-									$('<a href="#/'+controller+
-										'" class="view">List view</a>')
-								);
-							}
-
+						if (id == '') {
 							buttons.append(
-								$('<div class="sns"></div>').append(
-									'<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html#count=horizontal&amp;url='+encodeURIComponent(url)+'" style="width:100px; height:20px;"></iframe>'
-								).append(
-									'<iframe src="//www.facebook.com/plugins/like.php?href='+encodeURIComponent(url)+'&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=116679035030325" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>'
-								)
-							).append('<div class="clear"></div>');
+								$('<a href="#/'+controller+'/'+
+									post.id+'" class="view">Single view</a>')
+							);
+						} else {
+							buttons.append(
+								$('<a href="#/'+controller+
+									'" class="view">List view</a>')
+							);
 						}
-					})
-				)
-			);
 
-			if (opt.id) {
-				target.find('a.entry').click();
-			}
-		});
+						buttons.append(
+							$('<div class="sns"></div>').append(
+								'<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html#count=horizontal&amp;url='+encodeURIComponent(url)+'" style="width:100px; height:20px;"></iframe>'
+							).append(
+								'<iframe src="//www.facebook.com/plugins/like.php?href='+encodeURIComponent(url)+'&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=116679035030325" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>'
+							)
+						).append('<div class="clear"></div>');
+					}
+				})
+			)
+		);
+
+		if (opt.id) {
+			target.find('a.entry').click();
+		}
 	});
 
 	return this;
