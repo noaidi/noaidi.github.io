@@ -1,6 +1,3 @@
-var disqus_url = '';
-var disqus_identifier = '';
-
 /* hash
  * --------------------------------------------------------------------- */
 $(function() {
@@ -144,90 +141,6 @@ $(function() {
 	});
 });
 
-/* disqus
- * --------------------------------------------------------------------- */
-$.disqus = function(opt) {
-	opt = $.extend(true, {
-		'post': null,
-		'click': function() {},
-		'extra': null
-	}, opt);
-
-	return $('<div class="disqus"></div>')
-		.append(
-			$('<a href="#" class="launcher">+</a>')
-			.click(function(e) {
-				var launcher = $(this);
-				var target = launcher.parent()
-					.children('.target');
-				var thread = $('<div id="disqus_thread" />');
-				if (thread.length == 0) {
-					thread = $('#disqus_thread');
-				}
-
-				if (launcher.hasClass('current')) {
-					$('html').click();
-					return false;
-				}
-
-				if (typeof opt.click == 'function') {
-					opt.click(e, thread);
-				}
-
-			//	$('#disqus_thread').remove();
-				$('.disqus > .target').clickOutside();
-				$('.disqus > a.launcher').removeClass('current');
-				launcher.addClass('current');
-				thread.appendTo(target);
-				target.fadeIn(function() {
-					target.children('#disqus_thread')
-					.clickOutside(function() {
-						if ($('#dloading:visible').length > 0)
-							return;
-						launcher.removeClass('current');
-						target.fadeOut(function() {
-							$('#disqus_thread').appendTo($('#hidden'));
-							$(this).empty();
-							$('.dsq-tooltip-outer').remove();
-							$('iframe[id^="easyXDM_DISQUS_net_default"]')
-								.remove();
-						});
-					});
-				});
-
-				disqus_shortname = 'noaidi';
-			//	disqus_identifier = opt.post.id;
-				disqus_url = opt.post.post_url;
-
-				if (typeof(DISQUS) != 'undefined') {
-					DISQUS.reset({
-						'reload': true,
-						'config': function() {
-							this.page.identifier = disqus_identifier;
-							this.page.url = disqus_url;
-						}
-					});
-				} else {
-					(function() {
-						var dsq = document.createElement('script');
-						dsq.type = 'text/javascript';
-						dsq.async = true;
-						dsq.src = 'http://' + disqus_shortname +
-							'.disqus.com/embed.js';
-						target.append(dsq);
-					})();
-				}
-
-				return false;
-			}).focus(function() {
-				$(this).blur();
-			})
-		)
-		.append(
-			$('<div class="target"></div>').hide()
-		);
-};
-
 /* draw
  * --------------------------------------------------------------------- */
 $.convertDate = function(post) {
@@ -261,9 +174,6 @@ $.fn.drawPostText = function(data, opt) {
 			.append(post.body ?
 				$('<div class="body d-page redohtml"></div>')
 					.html(post.body) : '')
-			.append($.disqus({
-				'post': post
-			}))
 		);
 
 		if (opt.id) {
@@ -293,9 +203,6 @@ $.fn.drawPostQuote = function(data, opt) {
 			.append(post.text ?
 				$('<div class="body d-page redohtml"></div>')
 					.append($('<p></p>').html(post.text)) : '')
-			.append($.disqus({
-				'post': post
-			}))
 		);
 
 		if (opt.id) {
@@ -380,10 +287,6 @@ $.fn.drawPostPhoto = function(data, opt) {
 						$(this).addClass('current')
 							.addClass('view')
 					).removeClass('current');
-					if ($.isSingleView()) {
-						$(this).parent()
-							.find('.disqus a.launcher').click();
-					}
 					caption.empty().append(
 						$('<span class="date"></span>')
 							.append($.convertDate(post))
@@ -392,38 +295,6 @@ $.fn.drawPostPhoto = function(data, opt) {
 							.append(post.caption)
 					);
 					return false;
-				})
-			).append(
-				$.disqus({
-					'post': post,
-					'extra': src,
-					'click': function(_, thread) {
-						var buttons =
-							$('<div class="buttons"></div>')
-								.appendTo(thread);
-						var url = (location.href.split('#'))[0] +
-							'#/' + controller + '/' + post.id;
-
-						if (id == '') {
-							buttons.append(
-								$('<a href="#/'+controller+'/'+
-									post.id+'" class="view">Single view</a>')
-							);
-						} else {
-							buttons.append(
-								$('<a href="#/'+controller+
-									'" class="view">List view</a>')
-							);
-						}
-
-						buttons.append(
-							$('<div class="sns"></div>').append(
-								'<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/tweet_button.html#count=horizontal&amp;url='+encodeURIComponent(url)+'" style="width:100px; height:20px;"></iframe>'
-							).append(
-								'<iframe src="//www.facebook.com/plugins/like.php?href='+encodeURIComponent(url)+'&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=116679035030325" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px;" allowTransparency="true"></iframe>'
-							)
-						).append('<div class="clear"></div>');
-					}
 				})
 			)
 		);
