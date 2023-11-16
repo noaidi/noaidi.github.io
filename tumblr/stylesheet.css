@@ -249,7 +249,7 @@ a {
 }
 
 .html_photoset embed,
-.post img {
+.post figure {
 	display: block;
 	border: 6px solid #fff;
 
