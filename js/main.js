@@ -192,18 +192,41 @@ $.fn.drawPostQuote = function(data, opt) {
 
 	$(data.response.posts).each(function() {
 		var post = this;
-
-		target.append($('<div class="entry"></div>')
-			.append($('<div class="date d-page"></div>')
-				.html($.convertDate(post)))
-			.append('<div class="hr" />')
-			.append(post.source ?
-				$('<div class="title d-page"></div>')
-					.html(post.source) : '')
-			.append(post.text ?
-				$('<div class="body d-page redohtml"></div>')
-					.append($('<p></p>').html(post.text)) : '')
-		);
+		if (post.type === 'text') {
+			const div = $('<div />').html(post.body ? post.body : '');
+			let ps = div.find('p');
+			let quote = '';
+			let source = '';
+			if (ps.length > 0) {
+				source = $(ps[ps.length - 1]).html();
+				ps = ps.not(':last');
+			}
+			if (ps.length > 0) {
+				quote = $('<div class="body d-page redohtml"></div>')
+					.append($('<p />').html(ps.html()));
+			}
+			target.append($('<div class="entry"></div>')
+				.append($('<div class="date d-page"></div>')
+					.html($.convertDate(post)))
+				.append('<div class="hr" />')
+				.append(source ?
+					$('<div class="title d-page"></div>')
+						.html(source) : '')
+				.append(quote)
+			);
+		} else {
+			target.append($('<div class="entry"></div>')
+				.append($('<div class="date d-page"></div>')
+					.html($.convertDate(post)))
+				.append('<div class="hr" />')
+				.append(post.source ?
+					$('<div class="title d-page"></div>')
+						.html(post.source) : '')
+				.append(post.text ?
+					$('<div class="body d-page redohtml"></div>')
+						.append($('<p></p>').html(post.text)) : '')
+			);
+		}
 
 		if (opt.id) {
 			target.find('a.launcher').click();
@@ -220,7 +243,7 @@ $.fn.drawPostPhoto = function(data, opt) {
 		return;
 
 	var caption = target.children('.caption');
-	
+
 	if (caption.length == 0) {
 		caption = $('<div class="caption"></div>').appendTo(target);
 	}
